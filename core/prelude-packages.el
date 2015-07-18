@@ -66,7 +66,7 @@
     ov
     projectile
     magit
-    move-text
+    ;; move-text
     operate-on-number
     smart-mode-line
     smartparens
