@@ -2,6 +2,8 @@
 
 ;;; Commentary:
 
+(menu-bar-mode +1)
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;  Highlight ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 (prelude-require-packages '(highlight-symbol))
