@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
-#name : td
+#name : script
 # --
-<td>$0</td>
+%script
+  $0

@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : td
+#name : :key => ...
 # --
-<td>$0</td>
+:$1 => 

@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : td
+#name : params
 # --
-<td>$0</td>
+params[:$1]

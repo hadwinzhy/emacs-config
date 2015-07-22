@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : td
+#name : :symbol => 
 # --
-<td>$0</td>
+:$1 => 

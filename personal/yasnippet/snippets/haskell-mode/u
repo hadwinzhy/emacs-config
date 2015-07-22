@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : td
+#name: undefined
 # --
-<td>$0</td>
+undefined

@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
-#name : td
+#name : div
 # --
-<td>$0</td>
+%div
+  $0

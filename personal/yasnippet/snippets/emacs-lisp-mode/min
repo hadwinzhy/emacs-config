@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : td
+#name : point-min
 # --
-<td>$0</td>
+(point-min)

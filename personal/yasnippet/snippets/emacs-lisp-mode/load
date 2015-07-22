@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : td
+#name : load
 # --
-<td>$0</td>
+(load ${1:file})

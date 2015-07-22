@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : td
+#name : has_many
 # --
-<td>$0</td>
+has_many :

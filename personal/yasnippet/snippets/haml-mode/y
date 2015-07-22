@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : td
+#name : yield
 # --
-<td>$0</td>
+= yield $0

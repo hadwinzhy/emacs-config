@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : td
+#name : puts
 # --
-<td>$0</td>
+puts 

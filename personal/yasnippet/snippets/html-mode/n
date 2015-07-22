@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : td
+#name : name
 # --
-<td>$0</td>
+name="$0"

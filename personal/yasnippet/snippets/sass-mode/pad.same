@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : td
+#name : same
 # --
-<td>$0</td>
+padding: $1px
