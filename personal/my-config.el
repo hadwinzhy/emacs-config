@@ -11,6 +11,8 @@
 
 (load "~/.emacs.d/personal/yasnippet/yasnippet.el")
 
+(load "~/.emacs.d/personal/language/js.el")
+
 (provide 'myconfig)
 
 ;;; my-config.el ends here
